@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0b3d,50:6d1b7b,100:ff4ecd&height=180&section=header&text=MARCOS%20FERR%C3%81NDIZ&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Dev%20Jr.%20%C2%B7%20DAM%20%2B%20IA%20%26%20Big%20Data&descAlignY=65&descAlign=50" width="100%" alt="Marcos Ferrándiz" />
+<img src="header.svg" width="100%" alt="Marcos Ferrándiz — Dev Jr. DAM + IA & Big Data" />
 
 <a href="https://github.com/MarcosFerrandiz">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF4ECD&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Marcos+%F0%9F%91%8B%3BDev+Jr.+%7C+DAM+%2B+IA+%26+Big+Data%3BConstruyo+cosas+con+IA+%F0%9F%A4%96%3B20+a%C3%B1os%2C+muchas+ideas" alt="Hola, soy Marcos. Dev Jr. DAM + IA & Big Data" />
@@ -63,10 +63,10 @@ Me gusta construir cosas que se puedan usar: un asistente que te escucha, un cas
 <div align="center">
 
 <a href="https://github.com/MarcosFerrandiz">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MarcosFerrandiz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4ecd&icon_color=a855f7&text_color=e6e1ff&bg_color=0b0713&ring_color=ff4ecd" alt="Estadísticas de GitHub" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MarcosFerrandiz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=ff4ecd&icon_color=a855f7&text_color=e6e1ff&bg_color=0b0713&ring_color=ff4ecd" alt="Estadísticas de GitHub" />
 </a>
 <a href="https://github.com/MarcosFerrandiz">
-  <img height="180" src="https://streak-stats.demolab.com/?user=MarcosFerrandiz&hide_border=true&background=0b0713&border=ff4ecd&stroke=ff4ecd&ring=ff4ecd&fire=ff4ecd&currStreakNum=f7eaff&sideNums=f7eaff&currStreakLabel=ff4ecd&sideLabels=a89bb8&dates=a89bb8" alt="Racha de contribuciones" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=MarcosFerrandiz&hide_border=true&background=0b0713&border=ff4ecd&stroke=ff4ecd&ring=ff4ecd&fire=ff4ecd&currStreakNum=f7eaff&sideNums=f7eaff&currStreakLabel=ff4ecd&sideLabels=a89bb8&dates=a89bb8" alt="Racha de contribuciones" />
 </a>
 
 <br><br>
@@ -86,10 +86,10 @@ Me gusta construir cosas que se puedan usar: un asistente que te escucha, un cas
 <div align="center">
 
 <a href="https://github.com/MarcosFerrandiz/VEU">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosFerrandiz&repo=VEU&hide_border=true&title_color=ff4ecd&icon_color=a855f7&text_color=e6e1ff&bg_color=0b0713" alt="VEU" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosFerrandiz&repo=VEU&hide_border=true&title_color=ff4ecd&icon_color=a855f7&text_color=e6e1ff&bg_color=0b0713" alt="VEU" />
 </a>
 <a href="https://github.com/LeviPlanelles/EL_CLU8_DEL_SIE7E">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeviPlanelles&repo=EL_CLU8_DEL_SIE7E&hide_border=true&title_color=ff4ecd&icon_color=a855f7&text_color=e6e1ff&bg_color=0b0713" alt="EL_CLU8_DEL_SIE7E" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LeviPlanelles&repo=EL_CLU8_DEL_SIE7E&hide_border=true&title_color=ff4ecd&icon_color=a855f7&text_color=e6e1ff&bg_color=0b0713" alt="EL_CLU8_DEL_SIE7E" />
 </a>
 
 </div>
